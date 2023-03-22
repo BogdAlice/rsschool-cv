@@ -28,7 +28,7 @@ let x = questions.map(function(item) {
 Omsk State University, economist
 ### Courses
 - Udemi - [Web developer](https://www.udemy.com/course/webdeveloper/)(in progress)
-- The Rolling Scopes - [JavaScript/Front-end. Stage 1](https://rs.school/js-stage0/) (in progress)
+- The Rolling Scopes - [JavaScript/Front-end. Stage 1](https://rs.school/js/) (in progress)
 - Udemi - [JavaScript+React full](https://www.udemy.com/course/javascript_full/) (in progress)
 
 ### Language
