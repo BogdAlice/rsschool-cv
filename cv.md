@@ -7,7 +7,7 @@
 - GitHub: [BogdAlice](https://github.com/BogdAlice)
 
 ## About me
-I am 27 years old. My goal is to change my career. I want to get knowledge and skills that will be enough for employment in a company.
+I am 28 years old. My goal is to change my career. I want to get knowledge and skills that will be enough for employment in a company.
 
 ## Skills
 - HTML5
@@ -19,37 +19,9 @@ I am 27 years old. My goal is to change my career. I want to get knowledge and s
 
 ## Code example:
 ```
-$main-color: #1eacc7
-$second-color: #ff5656
-
-=btn_hover
-    &:hover
-        background-image: none
-        background-color: $main-color
-
-*
-    font-family: "Roboto", sans-serif
-
-header
-    position: relative
-    height: 50px
-
-nav
-    position: fixed
-    margin: 0 auto
-    height: 50px
-    background-color: #212121
-    width: 100%
-    z-index: 1
-    top: 0
-
-.menu
-    display: flex
-    justify-content: space-between
-    height: 50px
-    padding: 13px 70px
-    margin: 0
-    list-style-type: none
+let x = questions.map(function(item) { 
+    item.usersAnswer = null;
+});
 ```
 ## Education
 ### University
